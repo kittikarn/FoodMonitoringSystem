@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodMonitorySystem</string>
+    <string name="barcode">Barcode</string>
+</resources>
