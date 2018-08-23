@@ -15,14 +15,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "312984436027-2fh6p73m48s01esdgn5tvusv18iaqs0k.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.yo351.foodmonitorysystem",
-            "certificate_hash": "e2ebd068ab51a437e673ed0451a6a27f199a7843"
-          }
-        },
-        {
           "client_id": "312984436027-lncv8gksc3put039kcuegpc1atuov0q4.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "312984436027-lncv8gksc3put039kcuegpc1atuov0q4.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
